@@ -1,0 +1,15 @@
+# Day 1 of Learning Linux
+
+Everything in Linux is a file, even directories. Also there are no drives, or storage devices in Linux, they are simply devices mounted to a specific point in the file tree. If at any time you want to see where you are simply type the following command
+<pre><code>pwd</code></pre>
+It means *print working directory*
+
+To list the contents of the directory type
+<pre><code>ls</code></pre>
+
+To change directories type
+<pre><code>cd directory</code></pre>
+directory meaning the one you want to change to.
+
+
+
