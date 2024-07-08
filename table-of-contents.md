@@ -5,7 +5,7 @@
 <!-- Example: -->
 <!-- - [Day 1: HTML list tags](./journal-template.md/#day-1-february-1-2024--html-list-tags) -->
 
-- [Day 1](link)
+- [Day 1](./Day%201)
 - [Day 2](link)
 - [Day 3](link)
 - [Day 4](link)
